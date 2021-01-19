@@ -1,0 +1,6 @@
+version: "3"
+services:
+  rockpaperscissors:
+    build:
+      context: .
+    image: rockpaperscissors:1.0-SNAPSHOT
